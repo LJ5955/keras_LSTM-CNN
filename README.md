@@ -1,0 +1,2 @@
+# keras_LSTM-CNN
+本代码将卷积神经网络和LSTM网络进行结合，首先使用NCN网络进行特征提取，然后在softmax层前加入LSTM层，相对于GRU，LSTM具有较多的参数
